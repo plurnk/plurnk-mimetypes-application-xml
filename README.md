@@ -1,3 +1,5 @@
+> **ABSORBED into the plurnk platform monorepo** — code, history, and issues now live in [`plurnk/plurnk-service`](https://github.com/plurnk/plurnk-service) under `plurnk-mimetypes-application-xml/`. This repo is an archived snapshot.
+
 # @plurnk/plurnk-mimetypes-application-xml
 
 `application/xml` AND `text/xml` mimetype handler for the [plurnk](https://github.com/plurnk) ecosystem. DOM-tree extraction via [@xmldom/xmldom](https://www.npmjs.com/package/@xmldom/xmldom); XPath 1.0 via [xpath](https://www.npmjs.com/package/xpath).
